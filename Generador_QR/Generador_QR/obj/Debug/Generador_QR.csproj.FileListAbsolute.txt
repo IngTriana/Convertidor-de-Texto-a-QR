@@ -1,0 +1,12 @@
+C:\Users\Trian\source\repos\Generador_QR\Generador_QR\obj\Debug\Generador_QR.csproj.AssemblyReference.cache
+C:\Users\Trian\source\repos\Generador_QR\Generador_QR\obj\Debug\Generador_QR.Form1.resources
+C:\Users\Trian\source\repos\Generador_QR\Generador_QR\obj\Debug\Generador_QR.Properties.Resources.resources
+C:\Users\Trian\source\repos\Generador_QR\Generador_QR\obj\Debug\Generador_QR.csproj.GenerateResource.cache
+C:\Users\Trian\source\repos\Generador_QR\Generador_QR\obj\Debug\Generador_QR.csproj.CoreCompileInputs.cache
+C:\Users\Trian\source\repos\Generador_QR\Generador_QR\bin\Debug\Generador_QR.exe.config
+C:\Users\Trian\source\repos\Generador_QR\Generador_QR\bin\Debug\Generador_QR.exe
+C:\Users\Trian\source\repos\Generador_QR\Generador_QR\bin\Debug\Generador_QR.pdb
+C:\Users\Trian\source\repos\Generador_QR\Generador_QR\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\Trian\source\repos\Generador_QR\Generador_QR\obj\Debug\Generado.E1705645.Up2Date
+C:\Users\Trian\source\repos\Generador_QR\Generador_QR\obj\Debug\Generador_QR.exe
+C:\Users\Trian\source\repos\Generador_QR\Generador_QR\obj\Debug\Generador_QR.pdb

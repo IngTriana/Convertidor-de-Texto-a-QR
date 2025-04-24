@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generador_QR", "Generador_QR\Generador_QR.csproj", "{7497FB28-2E14-425A-830E-81645ACF6871}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7497FB28-2E14-425A-830E-81645ACF6871}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7497FB28-2E14-425A-830E-81645ACF6871}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7497FB28-2E14-425A-830E-81645ACF6871}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7497FB28-2E14-425A-830E-81645ACF6871}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9530C4E-FC05-4A4D-8F12-D1863C18ED53}
+	EndGlobalSection
+EndGlobal
